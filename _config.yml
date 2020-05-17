@@ -2,11 +2,11 @@
 title:              "David Blogs"
 description:        "A minimalist Jekyll theme"
 author_name:        "David Leung" # change this to your name
-logo_url:           # https://avatars1.githubusercontent.com/u/17950521?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://avatars1.githubusercontent.com/u/17950521?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://ccadenzahiho.github.io/test # main url
-baseurl:            '/test'
+url:                https://ccadenzahiho.github.io/blog # main url
+baseurl:            '/blog'
 permalink:          /:title # Post permalink
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
