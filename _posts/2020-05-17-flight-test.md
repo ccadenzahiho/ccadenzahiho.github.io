@@ -22,7 +22,9 @@ What I just did above and below should be a dividing line.
 <div class="divider"></div>
 
 **bold text**
+
 _italics_
+
 **_combined_**
 
 <div class="divider"></div>
