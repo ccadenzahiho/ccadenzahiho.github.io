@@ -6,7 +6,7 @@ logo_url:           https://avatars1.githubusercontent.com/u/17950521?v=4 # Get 
 
 # Site Settings
 url:                https://ccadenzahiho.github.io/blog/ # main url
-baseurl:            /blog
+baseurl:            '/blog/'
 timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
