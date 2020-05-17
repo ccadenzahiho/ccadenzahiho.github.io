@@ -48,7 +48,7 @@ Let's check out the media.
 
 ### Images
 
-![Lobsterdog](https://www.google.com/imgres?imgurl=https%3A%2F%2Flive.staticflickr.com%2F8408%2F8760046328_7edb93186a_b.jpg&imgrefurl=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Ftaro3%2F8760046328&tbnid=fcLUF6YOOdI3CM&vet=12ahUKEwi17t2R07vpAhULaKwKHcNZDqsQMygDegUIARDoAQ..i&docid=G_CyNymSU07SGM&w=835&h=1024&q=lobsterdog&ved=2ahUKEwi17t2R07vpAhULaKwKHcNZDqsQMygDegUIARDoAQ)
+![Lobsterdog](https://live.staticflickr.com/8408/8760046328_7edb93186a_b.jpg)
 
 
 
