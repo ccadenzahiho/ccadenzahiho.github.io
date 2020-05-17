@@ -21,6 +21,16 @@ What I just did above and below should be a dividing line.
 
 <div class="divider"></div>
 
+**bold text**
+_italics_
+**_combined_**
+
+<div class="divider"></div>
+
+## Hyperlinking...
+
+[Here's one](https://www.youtube.com/watch?v=GOVPpLtJUIg&t=601s) or [https://www.youtube.com/watch?v=GOVPpLtJUIg&t=601s](https://www.youtube.com/watch?v=GOVPpLtJUIg&t=601s).
+
 ## Listing Items
 
 1. this is the first object
@@ -49,6 +59,10 @@ Let's check out the media.
 ### Images
 
 ![Lobsterdog](https://live.staticflickr.com/8408/8760046328_7edb93186a_b.jpg)
+
+### Do direct links work? Lets try...
+
+Here's my instagram: https://www.instagram.com/davidleu.ng/?hl=en
 
 
 
