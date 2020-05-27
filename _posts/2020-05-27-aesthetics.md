@@ -13,6 +13,6 @@ I've only read about half of it so far, but here's what I've gotten out of it:
 * All of this leads to rise of individuality/expression. 
 * Monotonous uniforms, identical haircuts of the 20th century are long gone. 
 
-Essentially the author just shoved alot of "Hey, aesthetics are now relevant in the 21st century!" down our throats. They have not, however, discusses the disadvantages of such a thing. They're mostly just praising how important it is to adapt to this trend, and not what may lie in the future... but maybe they'll talk about that in the second half. 
+Essentially the author just shoved alot of "Hey, aesthetics are now relevant in the 21st century!" down our throats. They have not, however, discussed the disadvantages of such a thing. They're mostly just praising how important it is to adapt to this trend, and not what may lie in the future... but maybe they'll talk about that in the second half. 
 
 
