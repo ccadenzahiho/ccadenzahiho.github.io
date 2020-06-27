@@ -1,5 +1,5 @@
 ---
-Title: The man and the house
+Title: The Man and The House
 ---
 
 Once upon a time there was a man. His name is of no significance. The man lived in a house with features that were equally as insignificant. The man was strong. He was intelligent. But he never allowed others to enter the house, and rarely left it himself. Over the years, he would inspect his house from within, never quite aware of the damage on the exterior. It was only when the ceiling began leaking, or when the floorboards began shifting beneath his soles that he would get to work, patching the deformities. It wasn't very often that the man would notice any defects, but when he did, it was his first priority to repair it. He never knew the burdens his house carried outside, but the man was dedicated and diligent in keeping the interior in pristine shape. 
