@@ -1,5 +1,5 @@
 ---
-title: The man and his brother
+title: His Brother
 ---
 
 His eyes, normally bright and brown, turned into a dark abyss, swallowing the light from the chandelier above. His pupils seemed to merge into his iris. It seemed as if it was an all consuming eclipse, yet it wasn't of anger, regret, or sorrow. It was a contemplative look. It was one of reflection... but ironically, his eyes exhibited no such characteristic. 
