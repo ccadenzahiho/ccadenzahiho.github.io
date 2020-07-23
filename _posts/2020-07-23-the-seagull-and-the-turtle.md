@@ -1,5 +1,5 @@
 ---
-title: The Seagull and the Turtle
+title: The Seagull and The Turtle
 ---
 Once upon a time there was a seagull and a turtle. The seagull stood at the edge of the dock, while the turtle swam idly beneath. They had a conversation. 
 
