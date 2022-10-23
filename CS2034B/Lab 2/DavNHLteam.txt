@@ -1,0 +1,16 @@
+16,Los Angeles Kings,17,13,5
+15,Anaheim Ducks,18,12,7
+14,Calgary Flames,17,10,6
+13,Boston Bruins,18,11,2
+12,Minnesota Wild,21,10,2
+11,Vegas Golden Knights,23,14,1
+10,New York Rangers,23,9,4
+9,Pittsburgh Penguins,20,9,5
+8,Nashville Predators,23,11,2
+7,Washington Capitals,20,7,9
+6,St. Louis Blues,21,10,5
+5,Tampa Bay Lightning,23,9,5
+4,Toronto Maple Leafs,22,8,3
+3,Colorado Avalanche,21,8,2
+2,Carolina Hurricanes,24,7,2
+1,Florida Panthers,23,7,5

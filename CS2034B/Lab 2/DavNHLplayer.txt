@@ -1,0 +1,102 @@
+1,Connor McDavid,C,Edmonton Oilers
+2,Nathan MacKinnon,C,Colorado Avalanche
+3,Auston Matthews,C,Toronto Maple Leafs
+4,Aleksander Barkov,C,Florida Panthers
+5,Cale Makar,D,Colorado Avalanche
+6,Leon Draisaitl,C/LW,Edmonton Oilers
+7,Victor Hedman,D,Tampa Bay Lightning
+8,Adam Fox,D,New York Rangers
+9,Brad Marchand,LW,Boston Bruins
+10,Andrei Vasilevskiy,G,Tampa Bay Lightning
+11,Sidney Crosby,C,Pittsburgh Penguins
+12,Mikko Rantanen,RW,Colorado Avalanche
+13,Artemi Panarin,LW,New York Rangers
+14,Mitchell Marner,RW,Toronto Maple Leafs
+15,Alex Ovechkin,LW,Washington Capitals
+16,Elias Pettersson,C,Vancouver Canucks
+17,Nikita Kucherov,RW,Tampa Bay Lightning
+18,Mathew Barzal,C,New York Islanders
+19,Brayden Point,C/RW,Tampa Bay Lightning
+20,Kirill Kaprizov,LW/RW,Minnesota Wild
+21,Charlie McAvoy,D,Boston Bruins
+22,Patrick Kane,RW,Chicago Blackhawks
+23,Mark Stone,RW,Vegas Golden Knights
+24,Roman Josi,D,Nashville Predators
+25,David Pastrnak,RW,Boston Bruins
+26,Miro Heiskanen,D,Dallas Stars
+27,Mark Scheifele,C,Winnipeg Jets
+28,Connor Hellebuyck,G,Winnipeg Jets
+29,Sebastian Aho,C,Carolina Hurricanes
+30,Mika Zibanejad,C,New York Rangers
+31,Kyle Connor,LW,Winnipeg Jets
+32,Igor Shesterkin,G,New York Rangers
+33,Patrice Bergeron,C,Boston Bruins
+34,Dougie Hamilton,D,New Jersey Devils
+35,Alex Pietrangelo,D,Vegas Golden Knights
+36,Kris Letang,D,Pittsburgh Penguins
+37,Anze Kopitar,C,Los Angeles Kings
+38,Drew Doughty,D,Los Angeles Kings
+39,Robin Lehner,G,Vegas Golden Knights
+40,Shea Theodore,D,Vegas Golden Knights
+41,Thatcher Demko,G,Vancouver Canucks
+42,Jonathan Huberdeau,LW,Florida Panthers
+43,Gabriel Landeskog,C/LW,Colorado Avalanche
+44,Jack Hughes,C/LW,New Jersey Devils
+45,Zach Hyman,LW/RW,Edmonton Oilers
+46,Elvis Merzlikins,G,Columbus Blue Jackets
+47,Ryan O'Reilly,C,St. Louis Blues
+48,Andrei Svechnikov,LW/RW,Carolina Hurricanes
+49,Matthew Tkachuk,LW/RW,Calgary Flames
+50,Brady Tkachuk,LW,Ottawa Senators
+51,Aaron Ekblad,D,Florida Panthers
+52,John Tavares,C,Toronto Maple Leafs
+53,John Carlson,D,Washington Capitals
+54,Philipp Grubauer,G,Seattle Kraken
+55,Steven Stamkos,C/RW,Tampa Bay Lightning
+56,Jakob Chychrun,D,Arizona Coyotes
+57,William Nylander,LW/RW,Toronto Maple Leafs
+58,Jacob Markstrom,G,Calgary Flames
+59,Quinn Hughes,D,Vancouver Canucks
+60,John Gibson,G,Anaheim Ducks
+61,T.J. Oshie,C/RW,Washington Capitals
+62,Nick Suzuki,C/RW,Montreal Canadiens
+63,Darcy Kuemper,G,Colorado Avalanche
+64,Jonathan Marchessault,C/LW,Vegas Golden Knights
+65,Spencer Knight,G,Florida Panthers
+66,Semyon Varlamov,G,New York Islanders
+67,Brock Boeser,RW,Vancouver Canucks
+68,Mikhail Sergachev,D,Tampa Bay Lightning
+69,Claude Giroux,C/LW,Philadelphia Flyers
+70,Ryan McDonagh,D,Tampa Bay Lightning
+71,Ryan Ellis,D,Philadelphia Flyers
+72,Juuse Saros,G,Nashville Predators
+73,Morgan Rielly,D,Toronto Maple Leafs
+74,Cole Caufield,RW,Montreal Canadiens
+75,Jordan Binnington,G,St. Louis Blues
+76,Alex DeBrincat,LW/RW,Chicago Blackhawks
+77,Tyler Seguin,C/RW,Dallas Stars
+78,Nikolaj Ehlers,LW/RW,Winnipeg Jets
+79,Jake Guentzel,LW/RW,Pittsburgh Penguins
+80,Ryan Pulock,D,New York Islanders
+81,Anders Lee,LW,New York Islanders
+82,Taylor Hall,LW,Boston Bruins
+83,Marc-Andre Fleury,G,Chicago Blackhawks
+84,Nicklas Backstrom,C,Washington Capitals
+85,Max Pacioretty,LW,Vegas Golden Knights
+86,Zach Werenski,D,Columbus Blue Jackets
+87,Tyson Barrie,D,Edmonton Oilers
+88,Cam Talbot,G,Minnesota Wild
+89,Thomas Chabot,D,Ottawa Senators
+90,Darnell Nurse,D,Edmonton Oilers
+91,Evgeni Malkin,C,Pittsburgh Penguins
+92,Carey Price,G,Montreal Canadiens
+93,Vladimir Tarasenko,RW,St. Louis Blues
+94,MacKenzie Weegar,D,Florida Panthers
+95,Seth Jones,D,Chicago Blackhawks
+96,Dylan Larkin,C,Detroit Red Wings
+97,Bo Horvat,C,Vancouver Canucks
+98,Ivan Provorov,D,Philadelphia Flyers
+99,Jason Robertson,LW,Dallas Stars
+100,Patrik Laine,LW/RW,Columbus Blue Jackets
+
+
